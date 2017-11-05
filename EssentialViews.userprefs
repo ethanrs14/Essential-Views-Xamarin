@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5F2E651F-8EC5-4D88-8C8E-B52C7335EDBD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EssentialViews/FacebookView.xaml.cs">
+    <Files>
+      <File FileName="EssentialViews/App.xaml" Line="7" Column="1" />
+      <File FileName="EssentialViews/App.xaml.cs" Line="11" Column="58" />
+      <File FileName="EssentialViews/MainPage.cs" Line="12" Column="1" />
+      <File FileName="EssentialViews/TwitterView.xaml" Line="6" Column="1" />
+      <File FileName="EssentialViews/GoogleView.xaml" Line="6" Column="1" />
+      <File FileName="EssentialViews/FacebookView.xaml" Line="6" Column="1" />
+      <File FileName="EssentialViews/GoogleView.xaml.cs" Line="13" Column="47" />
+      <File FileName="EssentialViews/FacebookView.xaml.cs" Line="14" Column="13" />
+      <File FileName="EssentialViews/TwitterView.xaml.cs" Line="14" Column="13" />
+      <File FileName="EssentialViews/YoutubeView.xaml.cs" Line="14" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EssentialViews.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1493EA8B-7FA5-4BC4-8B31-9AF160D10A43">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.EssentialViews.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
